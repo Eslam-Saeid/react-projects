@@ -1,0 +1,14 @@
+{
+  "name": "vita",
+  "version": "1.0.0",
+  "description": "mern stack vita group app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vita_group",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
